@@ -13,7 +13,7 @@ const socialMedia = [
     url: "https://www.linkedin.com/in/monu-mahto/",
   },
   {
-    title: "Twitter",
+    title: "Instagram",
     icon: <RiInstagramFill size={20} />,
     iconLarge: <RiInstagramFill size={30} />,
     url: "https://www.instagram.com/_my_life_towards_sieg_/",
