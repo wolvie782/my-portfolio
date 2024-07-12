@@ -111,7 +111,7 @@ function Projects() {
           {/* Github Repo Link */}
           <a
             className=" px-3 py-2 rounded-full text-[#8f96e6]  hover:text-[#383e7b] dark:text-slate-300 dark:hover:text-white hover:bg-[#8f96e6] dark:hover:bg-slate-800 border border-[#8f96e6] border-solid flex justify-center items-center gap-2"
-            href="https://github.com/rp0777/bot-ai"
+            href="#"
             target="_blank"
           >
             code <RiGithubFill size={24} />
@@ -140,7 +140,7 @@ function Projects() {
           {/* Github Repo Link */}
           <a
             className=" px-3 py-2 rounded-full text-[#ea99c0] hover:bg-[#ea99c0] dark:hover:bg-[#ff6d99] hover:text-[#672c48] dark:text-fuchsia-300 dark:hover:text-white border border-[#ea99c0] border-solid flex justify-center items-center gap-2"
-            href="https://github.com/rp0777/ochi"
+            href="#/ochi"
             target="_blank"
           >
             code <RiGithubFill size={24} />
@@ -169,7 +169,7 @@ function Projects() {
           {/* Github Repo Link */}
           <a
             className=" px-3 py-2 rounded-full text-[#dda694] hover:bg-[#dda694] dark:hover:bg-[#ec6666] hover:text-[#764332] dark:text-orange-300 dark:hover:text-white border border-[#dda694] border-solid flex justify-center items-center gap-2"
-            href="https://github.com/rp0777/foodbox"
+            href="#/foodbox"
             target="_blank"
           >
             code <RiGithubFill size={24} />
@@ -198,7 +198,7 @@ function Projects() {
           {/* Github Repo Link */}
           <a
             className=" px-3 py-2 rounded-full text-[#8f96e6]  hover:text-[#383e7b] dark:text-slate-300 dark:hover:text-white hover:bg-[#8f96e6] dark:hover:bg-slate-800 border border-[#8f96e6] border-solid flex justify-center items-center gap-2"
-            href="https://github.com/rp0777/countdown-timer"
+            href="#/countdown-timer"
             target="_blank"
           >
             code <RiGithubFill size={24} />
@@ -288,7 +288,7 @@ function Projects() {
               {/* Github Repo Link */}
               <a
                 className=" px-3 py-2 rounded-full text-[#8f96e6] hover:text-[#383e7b] dark:text-slate-300 dark:hover:text-white hover:bg-[#8f96e6] dark:hover:bg-slate-800 border border-[#8f96e6] border-solid flex justify-center items-center gap-2"
-                href="https://github.com/rp0777/bot-ai"
+                href="#/bot-ai"
                 target="_blank"
               >
                 code <RiGithubFill size={24} />
@@ -332,7 +332,7 @@ function Projects() {
               {/* Github Repo Link */}
               <a
                 className=" px-3 py-2 rounded-full text-[#ea99c0] hover:bg-[#ea99c0] dark:hover:bg-[#ff6d99] hover:text-[#672c48] dark:text-fuchsia-300 dark:hover:text-white border border-[#ea99c0] border-solid flex justify-center items-center gap-2"
-                href="https://github.com/rp0777/ochi"
+                href="#/ochi"
                 target="_blank"
               >
                 code <RiGithubFill size={24} />
@@ -376,7 +376,7 @@ function Projects() {
               {/* Github Repo Link */}
               <a
                 className=" px-3 py-2 rounded-full text-[#dda694] hover:bg-[#dda694] dark:hover:bg-[#ec6666] hover:text-[#764332] dark:text-orange-300 dark:hover:text-white border border-[#dda694] border-solid flex justify-center items-center gap-2"
-                href="https://github.com/rp0777/foodbox"
+                href="#/foodbox"
                 target="_blank"
               >
                 code <RiGithubFill size={24} />
@@ -420,7 +420,7 @@ function Projects() {
               {/* Github Repo Link */}
               <a
                 className=" px-3 py-2 rounded-full text-[#8f96e6] hover:text-[#383e7b] dark:text-slate-300 dark:hover:text-white hover:bg-[#8f96e6] dark:hover:bg-slate-800 border border-[#8f96e6] border-solid flex justify-center items-center gap-2"
-                href="https://github.com/rp0777/countdown-timer"
+                href="#/countdown-timer"
                 target="_blank"
               >
                 code <RiGithubFill size={24} />

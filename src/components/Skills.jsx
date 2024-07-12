@@ -77,7 +77,7 @@ function Skills() {
         {Object.keys(skills).map((field, index) => (
           <div
             key={index}
-            className="field p-5 h-[35vh] md:h-[50vh] lg:h-[35vh] w-[60vw] lg:w-[15vw] rounded-2xl bg-[#CDD1FF] flex flex-col justify-start items-start gap-4"
+            className="field p-5 h-[35vh] md:h-[50vh] lg:h-[50vh] w-[60vw] lg:w-[21vw] rounded-2xl bg-[#CDD1FF] flex flex-col justify-start items-start gap-4"
           >
             {/* Field Heading */}
             <h1 className=" fieldHeading text-xl font-semibold tracking-tighter">
